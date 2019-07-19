@@ -5,7 +5,7 @@ To help focus better on the actual content of a page, say a documentation page o
 Just blur out the distracting content
 
 ### How To Include
-A JavaScript Element blurrer. Written as an IIFE this can easily be embedded via Tampermonkey or Greasemonkey but it could just as well be included in a script tag. Also copy&paste into console is an option. Next step will be a chromium extension for easier use.
+Written as an [IIFE](https://developer.mozilla.org/en-US/docs/Glossary/IIFE) this can easily be embedded via Tampermonkey or Greasemonkey but it could just as well be included in a script tag. Also copy&paste into console is an option. Next step will be a chromium extension for easier use.
 
 ### How To Use
 Press Alt-J to start.
